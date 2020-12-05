@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Base</string>
+
+    <string name="no_internet">No Internet Connected</string>
+    <string name="msg_no_internet">No Internet connection found. Check your connection try again.</string>
+    <string name="something_went_wrong">Something went wrong</string>
+
+    <string name="time_out">Response time out</string>
+    <string name="alert">Alert</string>
+    <string name="ok">OK</string>
+</resources>
